@@ -1,0 +1,28 @@
+{
+  "name": "myjekyll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plastikaweb/Jekyll-study-site.git"
+  },
+  "keywords": [
+    "jekyll"
+  ],
+  "author": "Carlos Matheu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plastikaweb/Jekyll-study-site/issues"
+  },
+  "homepage": "https://github.com/plastikaweb/Jekyll-study-site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "lodash": "^4.17.3"
+  }
+}
